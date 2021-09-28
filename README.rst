@@ -18,7 +18,7 @@ Counting polyps in masks:
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 In addition to the segmentation model we have also developed an algorithm which detects the borders and counts the segmented polyps or instruments in the dataset. We belive this feature has clinical relevance, because the clinician now may only use time on interpreting the images with detected polyps and not the images without polyps. On the other hand this should be used with caution because undetected polyps will not be counted and thus not be reviewed by the clinician. Figure 1 show an example of the counting algorithm where the model has successfully counted 1 and 2 segmented polyps.
 
-.. image:: https://github.com/ylefen/medai2021-polypixel/blob/main/img/polyp_count.png
+.. image:: https://github.com/ylefen/medai2021-polypixel/blob/main/img/1%20and%202%20polyps.png
 **Figure 1:** Counting number of polyps in the segmented image
 
 In 
