@@ -21,5 +21,9 @@ In addition to the segmentation model we have also developed an algorithm which 
 .. image:: https://github.com/ylefen/medai2021-polypixel/blob/main/img/1%20and%202%20polyps.png
 **Figure 1:** Counting number of polyps in the segmented image
 
-In 
+In some cases the predicted masks are fragmented and the counter algorithm may interpret one polyps as two or more like in figure 2.
+
+.. image:: https://github.com/ylefen/medai2021-polypixel/blob/main/img/1%20polyp%20-%20segmented%20as%202.png
+**Figure 2:** One polyp, segmented with a small outlier, interpreted as two polyps by the counter algorithm
+
 
