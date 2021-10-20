@@ -37,8 +37,8 @@ The same jupyter notebooks that is avilable here are also available in Kaggle wh
 
 - The `hyperkvasir-polyp-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Polyp%20Segmentation%20Task/hyperkvasir-polyp-cv.ipynb>`_ is available as a Kaggle notebook  `here <https://www.kaggle.com/bjoernjostein/hyperkvasir-starter-code>`_
 
-- The `kvasir-instrument-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Instrument%20Segmentation%20Task/kvasir-instrument-cv.ipynb>`_ is available as a Kaggle notebook `here <https://www.kaggle.com/bjoernjostein/hyperkvasir-starter-code>`_
+- The `kvasir-instrument-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Instrument%20Segmentation%20Task/kvasir-instrument-cv.ipynb>`_ is available as a Kaggle notebook `here <https://www.kaggle.com/bjoernjostein/kvasir-instrument-starter-code>`_
 
 - The final training and prediction on the the test set `hyperkvasir-polyp-testset-prediction.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Polyp%20Segmentation%20Task/hyperkvasir-polyp-testset-prediction.ipynb>`_ is available as a Kaggle notebook `here <https://www.kaggle.com/bjoernjostein/hyperkvasir-polyp-testset>`_
 
-- The final training and prediction on the the test set `hyperkvasir-polyp-testset-prediction.ipynb `kvasir-instrument-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Instrument%20Segmentation%20Task/kvasir-instrument-cv.ipynb>`_ is available as a Kaggle notebook `here <https://www.kaggle.com/bjoernjostein/kvasir-instrument-testset-prediction>`_
+- The final training and prediction on the the test set `kvasir-instrument-testset-prediction.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Instrument%20Segmentation%20Task/kvasir-instrument-cv.ipynb>`_ is available as a Kaggle notebook `here <https://www.kaggle.com/bjoernjostein/kvasir-instrument-testset-prediction>`_
