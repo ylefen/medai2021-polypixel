@@ -34,4 +34,4 @@ In some cases the predicted masks are fragmented and the counter algorithm may i
 Kaggle - interactive jupyter notebooks with GPU:
 ===============================================
 The same jupyter notebooks that is avilable here are also available in Kaggle which gives you free GPU wich is necessary to train the models and reproduce the results:
-The `hyperkvasir-polyp-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Polyp%20Segmentation%20Task/hyperkvasir-polyp-cv.ipynb>`_ is available as a Kaggle notebook  `here <https://www.kaggle.com/bjoernjostein/hyperkvasir-starter-code>`
+The `hyperkvasir-polyp-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Polyp%20Segmentation%20Task/hyperkvasir-polyp-cv.ipynb>`_ is available as a Kaggle notebook  `here <https://www.kaggle.com/bjoernjostein/hyperkvasir-starter-code>`_
