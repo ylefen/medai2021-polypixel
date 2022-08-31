@@ -1,9 +1,11 @@
 ************************************************
 Polypixel
 ************************************************
-[|PWC|](https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir?p=transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir)
+
+|PWC|
 
 .. |PWC| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
+    :target: https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir?p=transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
 
 Polyp:
 ======
