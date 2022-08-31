@@ -7,6 +7,11 @@ Polypixel
 .. |PWC| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
     :target: https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir?p=transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
 
+|PWC_2|
+
+.. |PWC_2| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-hyper-kvasir
+    :target: https://paperswithcode.com/sota/medical-image-segmentation-on-hyper-kvasir?p=transfer-learning-in-polyp-and-endoscopic
+
 Polyp:
 ======
 The code in `hyperkvasir-polyp-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Polyp%20Segmentation%20Task/hyperkvasir-polyp-cv.ipynb>`_  is used to cross-validate the performance of the different models on the provided development set, containing 1000 polyp images and masks. The results from our experiments are available in `Neptune.ai <https://app.neptune.ai/o/SSCP/org/HyperKvasir/experiments?split=tbl&dash=charts&viewId=462168ad-5b4d-45d8-b5db-014a90a675e4>`_
