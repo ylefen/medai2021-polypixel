@@ -27,8 +27,8 @@ Our model achieves the following performance on :
    ======  ================================  ========
    Metric  Training set (Cross-validation)   Test set
    ======  ================================  ========
-   Dice    :math:`0.874 \pm 0.011`           0.857
-   IoU     :math:`0.804 \pm 0.013`           0.800
+   Dice    :math:`0.874 $\pm$ 0.011`           0.857
+   IoU     :math:`0.804 $\pm$ 0.013`           0.800
    ======  ================================  ========
 
 
