@@ -23,12 +23,16 @@ Results:
 Our model achieves the following performance on :
 
  [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+ 
+ .. table:: Results polyp segmentation
+   :widths: auto
 
-| Metric             | Cross-val on Training set  | Test set       |
-| ------------------ |--------------------------- | -------------- |
-| Dice               |      $0.874 \pm 0.011$     | 0.857          |
-| IoU                |      $0.804 \pm 0.013$     | 0.800          |
-
+   ======  ================================  ========
+   Metric  Training set (Cross-validation)   Test set
+   ======  ================================  ========
+   Dice    :math:`0.874 \pm 0.011`           0.857
+   IoU     :math:`0.804 \pm 0.013`           0.800
+   ======  ================================  ========
 
 
 Instrument:
