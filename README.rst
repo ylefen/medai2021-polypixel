@@ -2,18 +2,16 @@
 Polypixel
 ************************************************
 
-|PWC|
 
-.. |PWC| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
-    :target: https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir?p=transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
+
+Polyp:
+======
 
 |PWC_2|
 
 .. |PWC_2| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-hyper-kvasir
     :target: https://paperswithcode.com/sota/medical-image-segmentation-on-hyper-kvasir?p=transfer-learning-in-polyp-and-endoscopic
 
-Polyp:
-======
 The code in `hyperkvasir-polyp-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Polyp%20Segmentation%20Task/hyperkvasir-polyp-cv.ipynb>`_  is used to cross-validate the performance of the different models on the provided development set, containing 1000 polyp images and masks. The results from our experiments are available in `Neptune.ai <https://app.neptune.ai/o/SSCP/org/HyperKvasir/experiments?split=tbl&dash=charts&viewId=462168ad-5b4d-45d8-b5db-014a90a675e4>`_
 
 In the code; `hyperkvasir-polyp-testset-prediction.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Polyp%20Segmentation%20Task/hyperkvasir-polyp-testset-prediction.ipynb>`_ , we train the final model based on the best model from cross-validation on the development set (ranked based on Dice score). The final model is then applied on the test set and the masks are saved in the same resolution as the original image.
@@ -36,6 +34,13 @@ Our model achieves the following performance on :
 
 Instrument:
 ===========
+
+|PWC|
+
+.. |PWC| image:: https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
+    :target: https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir?p=transfer-learning-in-polyp-and-endoscopic/medical-image-segmentation-on-kvasir
+
+
 The code in `kvasir-instrument-cv.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Instrument%20Segmentation%20Task/kvasir-instrument-cv.ipynb>`_  is used to cross-validate the performance of the different models on the provided development set, containing 590 endoscopic tool images and masks. The results from our experiments are available in `Neptune.ai <https://app.neptune.ai/o/SSCP/org/HyperKvasir/experiments?split=tbl&dash=charts&viewId=462168ad-5b4d-45d8-b5db-014a90a675e4>`_
 
 In code `kvasir-instrument-testset-prediction.ipynb <https://github.com/ylefen/medai2021-polypixel/blob/main/Instrument%20Segmentation%20Task/kvasir-instrument-testset-prediction.ipynb>`_ we train the final model based on the best model from cross-validation on the development set (ranked based on Dice score). The final model is then applied on the test set and the masks are saved in the same resolution as the original image.
