@@ -21,8 +21,7 @@ In the code; `hyperkvasir-polyp-testset-prediction.ipynb <https://github.com/yle
 Results:
 --------
 Our model achieves the following performance on :
-
- [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+`Hyper-kvasir <https://datasets.simula.no/hyper-kvasir/>`_
  
  .. table:: Results polyp segmentation
    :widths: auto
@@ -44,12 +43,17 @@ In code `kvasir-instrument-testset-prediction.ipynb <https://github.com/ylefen/m
 Results:
 --------
 Our model achieves the following performance on :
+`Hyper-kvasir <https://datasets.simula.no/kvasir-instrument/>`_
+ 
+ .. table:: Results instrument segmentation
+   :widths: auto
 
- [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
-
-| Model name         | Cross-val on Training set  | Test set       |
-| ------------------ |--------------------------- | -------------- |
-| EfficentNet B1     |                            |                |
+   ======  ================================  ========
+   Metric  Training set (Cross-validation)   Test set
+   ======  ================================  ========
+   Dice    :math:`0.937 \pm 0.015`           0.948
+   IoU     :math:`0.893 \pm 0.020`           0.911
+   ======  ================================  ========
 
 Pretrained models:
 ==================
