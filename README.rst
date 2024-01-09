@@ -6,7 +6,7 @@ This github repository contains the code used to achieve the results reported in
 
 Full reference to the original paper :
 
-N. P. Tzavara and B.-J. Singstad, ‘Transfer Learning in Polyp and Endoscopic Tool Segmentation from Colonoscopy Images’, NMI, vol. 1, no. 1, pp. 32–34, Nov. 2021, doi: 10.5617/nmi.9132.
+N.P.Tzavara and B.-J. Singstad, ‘Transfer Learning in Polyp and Endoscopic Tool Segmentation from Colonoscopy Images’, NMI, vol. 1, no. 1, pp. 32–34, Nov. 2021, doi: 10.5617/nmi.9132.
 
 
 Polyp:
